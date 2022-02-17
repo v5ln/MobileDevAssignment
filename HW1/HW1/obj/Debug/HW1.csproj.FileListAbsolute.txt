@@ -1,0 +1,6 @@
+/Users/omar/Desktop/GitHub/Mobile-Dev-HW/Mobile-Dev-HW/HW1/HW1/bin/Debug/HW1.exe
+/Users/omar/Desktop/GitHub/Mobile-Dev-HW/Mobile-Dev-HW/HW1/HW1/bin/Debug/HW1.pdb
+/Users/omar/Desktop/GitHub/Mobile-Dev-HW/Mobile-Dev-HW/HW1/HW1/obj/Debug/HW1.csproj.AssemblyReference.cache
+/Users/omar/Desktop/GitHub/Mobile-Dev-HW/Mobile-Dev-HW/HW1/HW1/obj/Debug/HW1.csproj.CoreCompileInputs.cache
+/Users/omar/Desktop/GitHub/Mobile-Dev-HW/Mobile-Dev-HW/HW1/HW1/obj/Debug/HW1.exe
+/Users/omar/Desktop/GitHub/Mobile-Dev-HW/Mobile-Dev-HW/HW1/HW1/obj/Debug/HW1.pdb
