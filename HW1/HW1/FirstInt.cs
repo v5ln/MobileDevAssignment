@@ -17,6 +17,9 @@ namespace HW1
                         break;
                     }
                 }
+
+
+
             if (firstnumber == "")
             {
                 Console.WriteLine("There is no intger in the text");
@@ -26,6 +29,9 @@ namespace HW1
                 Console.WriteLine("The First Number is: " + firstnumber);
             }
         }
+
+
+        
         private string search(int index, string text, int length)
         {
             if (index < length && text[index] < 58 && text[index] > 47)

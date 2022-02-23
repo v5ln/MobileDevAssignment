@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9A210329-D59F-4EE4-9E90-9974BE1A0909}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HW1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW1/FirstInt.cs">
     <Files>
-      <File FileName="HW1/FirstInt.cs" Line="27" Column="14" />
+      <File FileName="HW1/FirstInt.cs" Line="35" Column="23" />
       <File FileName="HW1/LargestDigit.cs" />
       <File FileName="HW1/LargestNumber.cs" />
       <File FileName="HW1/Program.cs" Line="43" Column="1" />
@@ -13,7 +13,7 @@
           <Node name="HW1" expanded="True">
             <Node name="HW1" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="FirstInt.cs" selected="True" />
             </Node>
           </Node>
         </State>
