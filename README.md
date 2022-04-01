@@ -1,7 +1,7 @@
 # MobileDevAssignment
 
 ## HW3 Report : 
-[![DEMO VIDEO](https://img.youtube.com/vi/2KgSkFTRjdY/0.jpg)](https://www.youtube.com/watch?v=I2BD2XqfJi4)
+[![DEMO VIDEO](https://img.youtube.com/vi/2KgSkFTRjdY/0.jpg)](https://www.youtube.com/watch?v=2KgSkFTRjdY)
 ## HW2 Report : 
 ### Program Class :
 this is the main class where is the menu showen to the user to choose what he wants to do
