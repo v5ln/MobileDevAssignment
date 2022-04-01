@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{9D9153DA-C46D-469A-8AC1-BDBC0CB68E3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW3/Views/MenuView.cs">
+    <Files>
+      <File FileName="HW3/Views/AddView.cs" Line="1" Column="1" />
+      <File FileName="HW3/Helpers/StaticReferences.cs" />
+      <File FileName="HW3/ViewModels/EditViewModel.cs" />
+      <File FileName="HW3/Views/EditView.cs" />
+      <File FileName="HW3/Helpers/Exceptions.cs" />
+      <File FileName="HW3/ViewModels/MenuViewModel.cs" />
+      <File FileName="HW3/ViewModels/PrintViewModel.cs" />
+      <File FileName="HW3/Program.cs" />
+      <File FileName="HW3/Views/MenuView.cs" Line="113" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW3" expanded="True">
+            <Node name="HW3" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MenuView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this</Value>
+          <Value>this.menuViewModel</Value>
+          <Value>this.menuViewModel.Users</Value>
+          <Value>this.menuViewModel.Users.Count</Value>
+          <Value>this.menuViewModel</Value>
+          <Value>menuViewModel.Users</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HW3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

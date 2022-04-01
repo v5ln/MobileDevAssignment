@@ -1,0 +1,5 @@
+/Users/OMAR/Desktop/HW3/HW3/obj/Debug/HW3.csproj.CoreCompileInputs.cache
+/Users/OMAR/Desktop/HW3/HW3/bin/Debug/HW3.exe
+/Users/OMAR/Desktop/HW3/HW3/bin/Debug/HW3.pdb
+/Users/OMAR/Desktop/HW3/HW3/obj/Debug/HW3.exe
+/Users/OMAR/Desktop/HW3/HW3/obj/Debug/HW3.pdb
